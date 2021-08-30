@@ -1,0 +1,18 @@
+{
+  "name": "kargo-apis",
+  "version": "1.0.0",
+  "description": "Yurtiçi, MNG ve UPS Kargo'ların durumunu getirir.",
+  "main": "config.js",
+  "scripts": {
+    "start": "node kargo.js"
+  },
+  "keywords": [],
+  "author": "Mehmet TOKMAK",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "request": "^2.88.2",
+    "soap": "^0.42.0",
+    "xml2json": "^0.12.0"
+  }
+}
