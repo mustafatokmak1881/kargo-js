@@ -2,7 +2,7 @@
 Yurtiçi ve Ups Kargo'nun durum bilgisini getirir. Parametrelerinizi dizi olarak verebilir böylece çoklu sorgulama yapabilirsiniz.
 
 Kullanım:
-node kargo.js
+node kargo.js veya
 npm start
 
 Örnek(kargo.js):
