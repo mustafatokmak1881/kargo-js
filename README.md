@@ -28,6 +28,13 @@ ups.sorgula(
     console.log( {ups:r} )
 })
 
+
+
+
+
+
+Örnek çıktı:
+
 ![yurtici](https://user-images.githubusercontent.com/33135266/131313057-f4266dea-eb35-44ac-bdf0-d8b1dafa58f5.PNG)
 ![ups](https://user-images.githubusercontent.com/33135266/131313018-50983d25-9ecb-4113-8291-fac0191c4fc1.PNG)
 
