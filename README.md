@@ -6,8 +6,7 @@ node kargo.js
 
 Örnek(kargo.js):
 
-const yurtici = require('./kargolar/yurtici/yurtici');
-const ups = require('./kargolar/ups/ups');
+
 
 yurtici.sorgula(
     [
