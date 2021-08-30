@@ -1,7 +1,12 @@
 const yurtici = require('./kargolar/yurtici/yurtici');
 const ups = require('./kargolar/ups/ups');
 
-yurtici.sorgula(['0901W*****4','0901W*****1']).then(r=>{
+yurtici.sorgula(
+    [
+        '0901W*****4',
+        '0901W*****1'
+    ]
+).then(r=>{
     console.log( {yurtici:r} );
 });
 
