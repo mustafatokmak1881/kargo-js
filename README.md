@@ -24,7 +24,6 @@ ups.sorgula(
         '1Z07V8E46800******'
     ]
     ).then(r=>{
-
     console.log( {ups:r} )
 })
 
