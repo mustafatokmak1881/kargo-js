@@ -10,7 +10,8 @@ node kargo.js
 
 yurtici.sorgula(
     [
-        '0901W******'
+        '0901W******',
+        '0901Y******',
     ]
 ).then(r=>{
     console.log( {yurtici:r} );
